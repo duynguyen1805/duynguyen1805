@@ -20,10 +20,10 @@
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=duynguyen1805&show_icons=true&theme=radical)
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=duynguyen1805&show_icons=true&theme=radical) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duynguyen1805&show_icons=true&locale=en&layout=compact" alt="duynguyen1805" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duynguyen1805&show_icons=true&locale=en&layout=compact&theme=radical" alt="duynguyen1805" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duynguyen1805&show_icons=true&locale=en" alt="duynguyen1805" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duynguyen1805&show_icons=true&locale=en&theme=radical" alt="duynguyen1805" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1805&" alt="duynguyen1805" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duynguyen1805&theme=radical" alt="duynguyen1805" /></p>
