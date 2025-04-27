@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen (Andy)</h1>
-<h3 align="center">I'm a Fullstack Web Developer with a strong inclination towards Back-End development using Node.js. I enjoy building scalable and efficient web applications, and I'm passionate about learning new technologies and improving my skills <br> <a href="https://duynguyen-portfolio.vercel.app/" target="blank">🔗 My Portfolio</a></h3>
+<h3 align="center">I'm a Fullstack Web Developer with a strong inclination towards Back-End development using Node.js. I enjoy building scalable and efficient web applications, and I'm passionate about learning new technologies and improving my skills <br> <a href="https://duynguyen-andy.vercel.app/" target="blank">🔗 My Portfolio</a></h3>
 <!-- <img alt="coding" width="100%" src="https://i.pinimg.com/736x/72/d7/41/72d74142e3471a64e57e1684cc1323f1.jpg"> -->
 <img alt="coding" width="100%" src="./background.png">
 
